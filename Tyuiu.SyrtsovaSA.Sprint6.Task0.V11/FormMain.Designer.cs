@@ -117,6 +117,7 @@
             // 
             textBoxResult_SSA.Location = new Point(15, 53);
             textBoxResult_SSA.Name = "textBoxResult_SSA";
+            textBoxResult_SSA.ReadOnly = true;
             textBoxResult_SSA.Size = new Size(142, 27);
             textBoxResult_SSA.TabIndex = 1;
             // 
