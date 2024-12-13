@@ -14,7 +14,7 @@ namespace Tyuiu.SyrtsovaSA.Sprint6.Task6.V2.Lib
                     if (line == "")
                         break;
                     string[] words = line.Split(' ', (char)StringSplitOptions.RemoveEmptyEntries);
-                    str += words[1];
+                    str = str + " " + words[1];
                 }
             }
             return str;
