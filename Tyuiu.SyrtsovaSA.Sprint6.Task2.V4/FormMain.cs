@@ -38,7 +38,7 @@ namespace Tyuiu.SyrtsovaSA.Sprint6.Task2.V4
 
         private void buttonHelp_SSA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 1 выполнила студентка группы ИИПб-24-1 Сырцова Софья Алексеевна", "Сообщение");
+            MessageBox.Show("Таск 2 выполнила студентка группы ИИПб-24-1 Сырцова Софья Алексеевна", "Сообщение");
         }
     }
 }
