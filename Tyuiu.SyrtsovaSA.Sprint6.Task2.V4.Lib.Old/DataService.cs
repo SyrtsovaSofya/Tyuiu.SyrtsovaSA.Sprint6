@@ -1,5 +1,6 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint6;
-namespace Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.NewVersion
+﻿using System;
+using tyuiu.cources.programming.interfaces.Sprint6;
+namespace Tyuiu.SyrtsovaSA.Sprint6.Task1.V18.Lib
 {
     public class DataService : ISprint6Task1V18
     {
@@ -14,7 +15,7 @@ namespace Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.NewVersion
                     valueArray[count++] = 0;
                 else
                 {
-                    y = (5 * x + 2.5) / (Math.Sin(x) + 2) + 2 * x + 2;
+                    y = (5*x + 2.5)/(Math.Sin(x) + 2) + 2*x + 2;
                     valueArray[count++] = Math.Round(y, 2);
                 }
             }

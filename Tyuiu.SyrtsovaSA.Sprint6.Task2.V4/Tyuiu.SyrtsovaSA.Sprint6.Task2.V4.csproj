@@ -80,11 +80,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.Old.csproj">
-      <Project>{067774CD-0439-497A-A49B-100F2711224F}</Project>
-      <Name>Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.Old</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
