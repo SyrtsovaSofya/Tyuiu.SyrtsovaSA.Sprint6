@@ -9,9 +9,8 @@ namespace Tyuiu.SyrtsovaSA.Sprint6.Task6.V2.Test
         public void Check()
         {
             DataService ds = new DataService();
-            string str = "";
             string path = @"C:\Users\Linn\Documents\InPutDataFileTask6V2.txt";
-            string res = ds.CollectTextFromFile(str, path);
+            string res = ds.CollectTextFromFile(path);
             string wait = "daijiHMupBSzreYGVyY";
         }
     }
