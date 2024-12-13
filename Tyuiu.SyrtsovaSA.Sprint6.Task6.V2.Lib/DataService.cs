@@ -17,7 +17,7 @@ namespace Tyuiu.SyrtsovaSA.Sprint6.Task6.V2.Lib
                     str = str + " " + words[1];
                 }
             }
-            return str;
+            return str.Trim();
         }
     }
 }

@@ -23,8 +23,7 @@ namespace Tyuiu.SyrtsovaSA.Sprint6.Task6.V2
 
         private void buttonDone_SSA_Click(object sender, EventArgs e)
         {
-            string str = "";
-            textBoxOutPutData_SSA.Text = ds.CollectTextFromFile(str, openFilePath);
+            textBoxOutPutData_SSA.Text = ds.CollectTextFromFile(openFilePath);
         }
 
         private void buttonHelp_SSA_Click(object sender, EventArgs e)
