@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2C8E99F-E565-4447-A8D5-42C6C8F65796}</ProjectGuid>
+    <ProjectGuid>{1F805ECF-537F-4155-B30F-2DE35BA5139B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Tyuiu.SyrtsovaSA.Sprint6.Task2.V4</RootNamespace>
-    <AssemblyName>Tyuiu.SyrtsovaSA.Sprint6.Task2.V4</AssemblyName>
+    <RootNamespace>Tyuiu.SyrtsovaSA.Sprint6.Task4.V25</RootNamespace>
+    <AssemblyName>Tyuiu.SyrtsovaSA.Sprint6.Task4.V25</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -66,6 +66,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -81,10 +82,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.Old\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.Old.csproj">
-      <Project>{0ed4e3c6-8a88-4d62-ad0f-506a1352f816}</Project>
-      <Name>Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.Old</Name>
+    <ProjectReference Include="..\Tyuiu.SyrtsovaSA.Sprint6.Task4.V25.Lib.Old\Tyuiu.SyrtsovaSA.Sprint6.Task4.V25.Lib.Old.csproj">
+      <Project>{0786296d-3486-48a1-81c9-b2f1b47a9b40}</Project>
+      <Name>Tyuiu.SyrtsovaSA.Sprint6.Task4.V25.Lib.Old</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
