@@ -23,11 +23,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{22070F84
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4", "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.csproj", "{D2C8E99F-E565-4447-A8D5-42C6C8F65796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib", "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.csproj", "{067774CD-0439-497A-A49B-100F2711224F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.Old", "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.Old.csproj", "{067774CD-0439-497A-A49B-100F2711224F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Test", "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Test\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Test.csproj", "{E2359687-3F88-4FA9-80F0-878E0CCA9063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.NewVersion", "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.NewVersion\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.NewVersion.csproj", "{11DF960D-03CB-4AAD-8063-83F950668474}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib", "Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.NewVersion\Tyuiu.SyrtsovaSA.Sprint6.Task2.V4.Lib.csproj", "{11DF960D-03CB-4AAD-8063-83F950668474}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
